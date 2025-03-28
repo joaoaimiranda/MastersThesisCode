@@ -8,7 +8,7 @@
 
 
 Code to reproduce methods &amp; results from my Master's Thesis Project.
-I will add a link to the final document as soon as it is officially published.
+You can find and download my thesis dissertation at [ULisboa Repository]( http://hdl.handle.net/10451/60536).
 
 To reproduce this project just clone or download this repository and create a Python virtual environment.
 To learn how to create a virtual environment refer to [creating a virtual environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment).
